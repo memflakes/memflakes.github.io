@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://memflakes.github.io/zh/artificial-life/01-human_brain/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memflakes.github.io/en/artificial-life/01-human_brain/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://memflakes.github.io/zh/artificial-life/01-human_brain/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/zh/artificial-life/02-evolution/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memflakes.github.io/en/artificial-life/02-evolution/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://memflakes.github.io/zh/artificial-life/02-evolution/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/zh/artificial-life/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memflakes.github.io/en/artificial-life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://memflakes.github.io/zh/artificial-life/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/zh/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memflakes.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://memflakes.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://memflakes.github.io/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/zh/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memflakes.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://memflakes.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://memflakes.github.io/zh/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/zh/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memflakes.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://memflakes.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://memflakes.github.io/zh/"
+                />
+  </url>
+  
+</urlset>

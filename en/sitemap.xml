@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://memflakes.github.io/en/phl/laozi/relativism/</loc>
+    <lastmod>2019-07-21T21:28:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/en/phl/laozi/</loc>
+    <lastmod>2019-07-21T15:53:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/en/phl/</loc>
+    <lastmod>2019-07-21T15:53:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/en/artificial-life/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://memflakes.github.io/zh/artificial-life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memflakes.github.io/en/artificial-life/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/en/artificial-life/01-human_brain/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://memflakes.github.io/zh/artificial-life/01-human_brain/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memflakes.github.io/en/artificial-life/01-human_brain/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/en/math/</loc>
+    <lastmod>2019-06-26T02:11:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/en/artificial-life/02-evolution/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://memflakes.github.io/zh/artificial-life/02-evolution/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memflakes.github.io/en/artificial-life/02-evolution/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/en/artificial-life/02-evolution/chapter01/</loc>
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/en/artificial-life/neuromorphic/</loc>
+    <lastmod>2019-07-22T10:52:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/en/artificial-life/bmi/</loc>
+    <lastmod>2019-07-22T12:01:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/en/</loc>
+    <lastmod>2019-07-21T21:28:43-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://memflakes.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://memflakes.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memflakes.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/en/math/loveandmatch/</loc>
+    <lastmod>2019-06-25T15:35:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://memflakes.github.io/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://memflakes.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memflakes.github.io/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://memflakes.github.io/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://memflakes.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memflakes.github.io/en/tags/"
+                />
+  </url>
+  
+</urlset>

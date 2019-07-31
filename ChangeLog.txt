@@ -1,0 +1,134 @@
+
+2019-07-31 11:12:54 -0400 b54b452
+
+    new tag google
+
+
+2019-07-26 09:41:35 -0400 3f09bda
+
+    show visited links
+
+
+2019-07-26 09:39:14 -0400 0ec459c
+
+    add cmu group on neuromorphic; ai vs a-life from video game book
+
+
+2019-07-23 16:25:22 -0400 fc0db16
+
+    intel chips
+
+
+2019-07-23 12:12:12 -0400 47eba98
+
+    format fix
+
+
+2019-07-23 12:06:51 -0400 07a151f
+
+    add Xin Qijis poem to phl header page
+
+
+2019-07-23 12:01:23 -0400 b5356de
+
+    update css with better menu folding behavior
+
+
+2019-07-22 13:41:35 -0400 45f5c86
+
+    add neuromorphic/bmi
+
+
+2019-07-21 23:11:07 -0400 3d7067b
+
+    add new footer message for citations
+
+
+2019-07-21 21:51:46 -0400 571b09c
+
+    laozi in phl/
+
+
+2019-07-21 15:50:47 -0400 ce6c684
+
+    disable lang switch button
+
+
+2019-07-21 15:49:08 -0400 46620a0
+
+    fix frontmatter
+
+
+2019-07-21 15:30:43 -0400 70bec3c
+
+    remove about; add math
+
+
+2019-07-21 15:27:48 -0400 b9e4231
+
+    rename titles
+
+
+2019-07-21 15:23:45 -0400 24eb5c5
+
+    reconfig: remove menu shortcuts
+
+
+2019-07-21 15:16:02 -0400 187a5e3
+
+    reformating
+
+
+2019-07-21 14:40:45 -0400 535f91b
+
+    1. delete com-sec; 2. rename to specific folder, math; 3. reading-ai as artificial life;
+
+
+2019-06-26 17:17:59 -0400 2b52ee5
+
+    disable toc
+
+
+2019-06-26 17:15:40 -0400 1e14e25
+
+    dop jujutsu;
+
+
+2019-06-26 10:53:38 -0400 f3e8e0a
+
+    fix relative link error in themesite
+
+
+2019-06-26 02:09:36 -0400 7260512
+
+    reading Jun 25; - love and math, begin; - evolution of intelligent system, brain, begin; - compute sec policy, definition.
+
+
+2019-06-24 17:29:03 -0400 fc2a98f
+
+    ignore folder when building
+
+
+2019-06-24 17:24:45 -0400 0156fa5
+
+    remove public folder
+
+
+2019-06-24 17:05:51 -0400 579f06a
+
+    adding theme example site as subsite, for reference; - testing zh basics
+
+
+2019-06-24 16:09:46 -0400 49fe4a4
+
+    example site with documentations
+
+
+2019-06-24 16:04:42 -0400 5f26442
+
+    add submodule
+
+
+2019-06-24 16:02:14 -0400 aa12e1f
+
+    init commit by hugo new site
