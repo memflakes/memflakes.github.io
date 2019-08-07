@@ -1,5 +1,19 @@
 [
 {
+	"uri": "https://memflakes.github.io/en/math/conceptions/",
+	"title": "Conceptions",
+	"tags": [],
+	"description": "",
+	"content": "Conceptions from reading: Elementary of Matrix Theory1\nComplex number: $a + ib$. 复数．\nCartesian: 迪卡尔．\nCartesian coordinates: 坐标系． Cartesian direction: 向量．\nCartesian space: Euclidean space: a space of all n-tuples of real numbers. $(x_1, x_2, \u0026hellip; , x_n)$. Totality of n-space: $R^n$.\nCartesian equation: An equation representing a locus $L$ in the n-dimensional Cartesian space(Euclidean space).\nconic: 圆锥．\nconic section: 圆锥曲线, 圆锥截痕, 二次平面曲线. Conic section is a curve obtained as the intersection of the surface of a cone with a plane. The three types of conic section are the hyperbola (双曲线), parabola (抛物线), and the ellipse (椭圆);\nDeterminant: 行列式． $det(A)$ or $|A|. In linear algebra, the determinant is a scalar value that can be computed from the elements of a square matrix and encodes certain properties of the linear transformation described by the matrix.\n Elementary of Matrix Theory. Howard Eves, 1966. ↩   "
+},
+{
+	"uri": "https://memflakes.github.io/en/math/matrix/",
+	"title": "Matrix",
+	"tags": [],
+	"description": "",
+	"content": "Book: Elementary of Matrix Theory1\nExample: the conic section with Cartesian equation:\n$ax^2 + 2hxy + by^2 + 2gx + 2fy + c = 0$\nis completely determined by the symmetric 3 x 3 array of numbers:\n$M = \\begin{bmatrix} a \u0026amp; h \u0026amp; g \\\\ h \u0026amp; b \u0026amp; f \\\\ g \u0026amp; f \u0026amp; c \\end{bmatrix}$\nIt follows that properties of the conic section can be expressed in terms of properties of its associated array. For example, Let $D = |M| = \\begin{vmatrix} a \u0026amp; h \u0026amp; g \\\\ h \u0026amp; b \u0026amp; f \\\\ g \u0026amp; f \u0026amp; c \\end{vmatrix}$, and let $A = \\begin{vmatrix} a \u0026amp; h \\\\ h \u0026amp; b \\end{vmatrix} $,\nIt is shown in analytic geometry texts that the conic is: (1) an ellipse if and only if $D \\neq 0$ and $A\u0026gt;0$; (2) a hyperbola if and only if $D\\neq 0$ and $A \u0026lt; 0$; (3) a parabola if and only if $D\\neq 0$ and $A = 0$; (4) a pair of intersecting straight lines if and only if $D = 0$ and $A\\neq 0$; (5) a pair of parallel or conincident straight lines if and only if $D=0$ and $A=0$.\n Elementary of Matrix Theory. Howard Eves, 1966. ↩   "
+},
+{
 	"uri": "https://memflakes.github.io/en/phl/laozi/relativism/",
 	"title": "Relativism",
 	"tags": [],
@@ -39,7 +53,7 @@
 	"title": "Math",
 	"tags": [],
 	"description": "",
-	"content": "  Love \u0026amp; Math  Book: Love \u0026amp; Math, The Heart of Hidden Reality, by Edward Frenkel, Basic Books, A member of the perseus books group, New York. About the author \u0026ldquo;when you are in love, who can stop you\u0026rdquo; Growing up in the former Soviet Union. Not admitted by Moscow State University. Sneaked to attend lectures and seminars. Read books by his own. College student, pushing the boundaries of the unknown. At age 21, invited to Harvard University as a Visiting Professor.\n "
+	"content": "  Conceptions  Conceptions from reading: Elementary of Matrix Theory1 Complex number: $a + ib$. 复数． Cartesian: 迪卡尔． Cartesian coordinates: 坐标系． Cartesian direction: 向量． Cartesian space: Euclidean space: a space of all n-tuples of real numbers. $(x_1, x_2, \u0026hellip; , x_n)$. Totality of n-space: $R^n$. Cartesian equation: An equation representing a locus $L$ in the n-dimensional Cartesian space(Euclidean space). conic: 圆锥．\n Matrix  Book: Elementary of Matrix Theory1 Example: the conic section with Cartesian equation: $ax^2 + 2hxy + by^2 + 2gx + 2fy + c = 0$ is completely determined by the symmetric 3 x 3 array of numbers: $M = \\begin{bmatrix} a \u0026amp; h \u0026amp; g \\\\ h \u0026amp; b \u0026amp; f \\\\ g \u0026amp; f \u0026amp; c \\end{bmatrix}$ It follows that properties of the conic section can be expressed in terms of properties of its associated array.\n Love \u0026amp; Math  Book: Love \u0026amp; Math, The Heart of Hidden Reality, by Edward Frenkel, Basic Books, A member of the perseus books group, New York. About the author \u0026ldquo;when you are in love, who can stop you\u0026rdquo; Growing up in the former Soviet Union. Not admitted by Moscow State University. Sneaked to attend lectures and seminars. Read books by his own. College student, pushing the boundaries of the unknown. At age 21, invited to Harvard University as a Visiting Professor.\n "
 },
 {
 	"uri": "https://memflakes.github.io/en/artificial-life/02-evolution/",
