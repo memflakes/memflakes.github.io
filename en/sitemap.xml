@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://memflakes.github.io/en/artificial-life/brain-predictor/</loc>
+    <lastmod>2019-10-14T14:02:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/en/artlife/plasticity/nature/</loc>
+    <lastmod>2019-08-29T22:51:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/en/artlife/plasticity/</loc>
+    <lastmod>2019-08-29T13:28:53-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://memflakes.github.io/en/math/conceptions/</loc>
     <lastmod>2019-08-07T14:29:55-04:00</lastmod>
   </url>
@@ -28,63 +43,73 @@
   </url>
   
   <url>
-    <loc>https://memflakes.github.io/en/artificial-life/</loc>
+    <loc>https://memflakes.github.io/en/artlife/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://memflakes.github.io/zh/artificial-life/"
+                href="https://memflakes.github.io/zh/artlife/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memflakes.github.io/en/artificial-life/"
+                href="https://memflakes.github.io/en/artlife/"
                 />
   </url>
   
   <url>
-    <loc>https://memflakes.github.io/en/artificial-life/01-human_brain/</loc>
+    <loc>https://memflakes.github.io/en/artlife/01-human_brain/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://memflakes.github.io/zh/artificial-life/01-human_brain/"
+                href="https://memflakes.github.io/zh/artlife/01-human_brain/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memflakes.github.io/en/artificial-life/01-human_brain/"
+                href="https://memflakes.github.io/en/artlife/01-human_brain/"
                 />
   </url>
   
   <url>
     <loc>https://memflakes.github.io/en/math/</loc>
     <lastmod>2019-06-26T02:11:28-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://memflakes.github.io/en/artificial-life/02-evolution/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://memflakes.github.io/zh/artificial-life/02-evolution/"
+                href="https://memflakes.github.io/zh/math/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://memflakes.github.io/en/artificial-life/02-evolution/"
+                href="https://memflakes.github.io/en/math/"
                 />
   </url>
   
   <url>
-    <loc>https://memflakes.github.io/en/artificial-life/02-evolution/chapter01/</loc>
+    <loc>https://memflakes.github.io/en/artlife/02-evolution/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://memflakes.github.io/zh/artlife/02-evolution/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memflakes.github.io/en/artlife/02-evolution/"
+                />
   </url>
   
   <url>
-    <loc>https://memflakes.github.io/en/artificial-life/neuromorphic/</loc>
+    <loc>https://memflakes.github.io/en/artlife/02-evolution/chapter01/</loc>
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/en/artlife/neuromorphic/</loc>
     <lastmod>2019-07-22T10:52:14-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://memflakes.github.io/en/artificial-life/bmi/</loc>
+    <loc>https://memflakes.github.io/en/artlife/bmi/</loc>
     <lastmod>2019-07-22T12:01:26-04:00</lastmod>
   </url>
   
@@ -111,11 +136,24 @@
   <url>
     <loc>https://memflakes.github.io/en/math/loveandmatch/</loc>
     <lastmod>2019-06-25T15:35:51-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://memflakes.github.io/zh/math/loveandmatch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://memflakes.github.io/en/math/loveandmatch/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://memflakes.github.io/en/artificial-life/</loc>
   </url>
   
   <url>
     <loc>https://memflakes.github.io/en/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -135,7 +173,6 @@
   
   <url>
     <loc>https://memflakes.github.io/en/tags/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"

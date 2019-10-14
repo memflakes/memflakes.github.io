@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>智能系统的演化 on 中文页面[待翻译]</title>
-    <link>https://memflakes.github.io/zh/artificial-life/02-evolution/</link>
+    <link>https://memflakes.github.io/zh/artlife/02-evolution/</link>
     <description>Recent content in 智能系统的演化 on 中文页面[待翻译]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://memflakes.github.io/zh/artificial-life/02-evolution/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://memflakes.github.io/zh/artlife/02-evolution/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

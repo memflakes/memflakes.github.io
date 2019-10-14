@@ -1,4 +1,39 @@
 
+2019-10-14 14:41:44 -0400 5f1f389
+
+    merge
+
+
+2019-10-14 14:32:40 -0400 2864a30
+
+    brain predictor fiction
+
+
+2019-10-14 14:01:24 -0400 d0812d3
+
+    update script to latest
+
+
+2019-08-29 23:12:37 -0400 7b0c787
+
+    plastic ch1
+
+
+2019-08-29 13:35:12 -0400 7f15f46
+
+    update;
+
+
+2019-08-29 13:33:24 -0400 ff83e2d
+
+    rename artificial-life to artlife; new plasticity
+
+
+2019-08-07 16:20:49 -0400 c391a3e
+
+    from
+
+
 2019-08-07 16:18:50 -0400 6996c3b
 
     add matrix example; conceptions; custome comments;

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Human Brain on </title>
-    <link>https://memflakes.github.io/en/artificial-life/01-human_brain/</link>
+    <link>https://memflakes.github.io/en/artlife/01-human_brain/</link>
     <description>Recent content in Human Brain on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://memflakes.github.io/en/artificial-life/01-human_brain/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://memflakes.github.io/en/artlife/01-human_brain/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brain Machine Interfaces on </title>
-    <link>https://memflakes.github.io/en/artificial-life/bmi/</link>
+    <link>https://memflakes.github.io/en/artlife/bmi/</link>
     <description>Recent content in Brain Machine Interfaces on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 22 Jul 2019 12:01:26 -0400</lastBuildDate>
     
-	<atom:link href="https://memflakes.github.io/en/artificial-life/bmi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://memflakes.github.io/en/artlife/bmi/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

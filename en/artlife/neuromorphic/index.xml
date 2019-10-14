@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neuromorphic on </title>
-    <link>https://memflakes.github.io/en/artificial-life/neuromorphic/</link>
+    <link>https://memflakes.github.io/en/artlife/neuromorphic/</link>
     <description>Recent content in Neuromorphic on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 22 Jul 2019 10:52:14 -0400</lastBuildDate>
     
-	<atom:link href="https://memflakes.github.io/en/artificial-life/neuromorphic/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://memflakes.github.io/en/artlife/neuromorphic/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
