@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brain Predictor on </title>
-    <link>https://memflakes.github.io/en/artificial-life/brain-predictor/</link>
+    <link>https://memflakes.github.io/en/artlife/brain-predictor/</link>
     <description>Recent content in Brain Predictor on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 14 Oct 2019 14:02:37 -0400</lastBuildDate>
     
-	<atom:link href="https://memflakes.github.io/en/artificial-life/brain-predictor/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://memflakes.github.io/en/artlife/brain-predictor/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
